@@ -9,9 +9,9 @@
         "Link",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/Auto-Approved-Bot",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://github.com/Jeolpaul/AUTO-APPROVER-BOT",
+    "repository": "https://github.com/Jeolpaul/AUTO-APPROVER-BOT",
+    "success_url": "https://github.com/Jeolpaul/AUTO-APPROVER-BOT",
     "env": {
         "API_ID": {
             "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",

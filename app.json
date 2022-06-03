@@ -1,6 +1,6 @@
 {
     "name": "Auto-Approved-Bot",
-    "description": "Iam Auto-Approved-Bot @pr0fess0r_99",
+    "description": "Iam Auto-Approved-Bot By BETA BOTZ",
     "keywords": [
         "Auto",
         "Approved",
@@ -14,11 +14,11 @@
     "success_url": "https://github.com/Jeolpaul/AUTO-APPROVER-BOT",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP ID From @MT_MyTelegramOrg_Bot",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash From @MT_MyTelegramOrg_Bot",
             "value": ""
         },
         "BOT_TOKEN": {

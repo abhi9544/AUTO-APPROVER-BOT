@@ -4,16 +4,8 @@ A Telegram Bot That Accept Join Request In Private Groups
 🤖 𝗔𝘂𝘁𝗼-𝗔𝗽𝗽𝗿𝗼𝘃𝗲-𝗕𝗼𝘁 🤖
 </p>
 
-## First & Last Warning ⚠️
-Changing The Code is NOT ALLOWED..!!
-You Are Free To Use This Code In Any Of Your Projects, But You Must Include The Following In Your Readme.Md (Copy & Paste)
-
-`Fork Tag`
-
-```
-## Developer
-- [JEOL](https://t.me/JP_Jeol_org)
-```
+## DEVELOPER
+[JEOL](https://t.me/JP_Jeol_org)
 
 
 

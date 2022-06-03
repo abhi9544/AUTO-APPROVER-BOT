@@ -9,16 +9,16 @@
         "Link",
         "Bot"
     ],
-    "website": "https://betaofficialbot.blogspot.com/",
-    "repository": "https://github.com/Jeolpaul/AUTO-APPROVER-BOT",
-    "success_url": "https://betaofficialbot.blogspot.com/",
+    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "repository": "https://github.com/PR0FESS0R-99/Auto-Approved-Bot",
+    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From my.telegram.org",
+            "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
             "value": ""
-       
+        },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org",
+            "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -26,7 +26,7 @@
             "value": ""
         },
         "CHAT_ID": {
-            "description": "Working Group ID | Use @MKN_GROUPMANAGEROBOT and type /id to get yiur id",
+            "description": "Working Group ID @MT_ID_Bot",
             "value": ""
         },
         "APPROVED_WELCOME": {
